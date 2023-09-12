@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anjan B</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan-b&label=Profile%20views&color=0e75b6&style=flat" alt="anjan-b" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjan-b" alt="anjan-b" /></a> </p>
+
+- 🔭 I’m currently working on **Block Chain**
+
+- 🌱 I’m currently learning **Solidity, javascript**
+
+- 📫 How to reach me **anjanb4g@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
